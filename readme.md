@@ -21,7 +21,8 @@
     Total params: 1,941,105
     Trainable params: 1,941,105
     Non-trainable params: 0
-    <p> In the latest experiment Trained for 25 epochs we have obtained following scores for this model </p>
+  
+  <p> In the latest experiment Trained for 25 epochs we have obtained following scores for this model </p>
     <ul>
       <li> Dice Score: 0.9043 </li>
       <li> Sensitivity: 0.9270 </li>
