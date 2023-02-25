@@ -15,7 +15,12 @@
       <li> 128 features </li>
       <li> 256 features </li>
     </ul>
-  
+  <p> Similarly The number of Parameters for the UNET Model is calculated to be: </p>
+  `
+    Total params: 1,941,105
+    Trainable params: 1,941,105
+    Non-trainable params: 0
+  `
     
   <p align='center'> <b> Note: </b> As it is still a work in progress I will be updating this log file as I reach more checkpoints in development cycle. </p>
 </div>
