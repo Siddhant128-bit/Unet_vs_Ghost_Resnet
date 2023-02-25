@@ -6,9 +6,15 @@
     <p> So Far we have Completed unet segmentation task. Currently Working on Ghosted Unet system after its been completed we are going to compare the number of parameters features geenrated and how it stacks up against the Original Unet model.</p>
     <h3> Unet Architecture </h3>
     <img src='https://miro.medium.com/max/1200/1*f7YOaE4TWubwaFF7Z1fzNw.png'>
-    <p> Our Unet Model has 5 encoder and 4 decoder <p>
-    <br>
-  <p> The number of features used are: </p>
+    <p> Our Unet Model has 5 encoder and 4 decoder </p>
+    <p> The number of features used are: </p>
+    <ul>
+      <li> 16 features </li>
+      <li> 32 features </li>
+      <li> 64 features </li>
+      <li> 128 features </li>
+      <li> 256 features </li>
+    </ul>
   
     
   <p align='center'> <b> Note: </b> As it is still a work in progress I will be updating this log file as I reach more checkpoints in development cycle. </p>
