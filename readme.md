@@ -29,7 +29,7 @@
       <li> Specificity: 0.9803 </li>
      </ul>
      
-    <br>
+  <br>
   <h2> Ghosted UNET Architecture </h2>
   <p> For Ghosted UNET Architecutre what we have done is ghosted basically the Convolution or Contraction Part and followed the same codebase for expansion part of the UNET </p>
   <p align='center'> <b> Note: </b> As it is still a work in progress I will be updating this log file as I reach more checkpoints in development cycle. </p>
