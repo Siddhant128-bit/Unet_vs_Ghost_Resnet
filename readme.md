@@ -28,7 +28,12 @@
       <li> Sensitivity: 0.9270 </li>
       <li> Specificity: 0.9803 </li>
      </ul>
-     
+   <p> The Performance During Inference was observed as: </p>
+   <ul>
+      <li> Original Image: </li>
+      <br>
+      ![Inference_Original](https://user-images.githubusercontent.com/80937266/221605054-3a8b05ab-71de-48c4-bbad-48a6537ecc48.jpg)
+
   <br>
   <h2> Ghosted UNET Architecture </h2>
   <p> For Ghosted UNET Architecutre what we have done is ghosted basically the Convolution or Contraction Part and followed the same codebase for expansion part of the UNET </p>
