@@ -28,8 +28,8 @@
       <li> Sensitivity: 0.9270 </li>
       <li> Specificity: 0.9803 </li>
      </ul>
-   <p> The Performance During Inference was observed as: </p>
-   ![Inference_Original](https://user-images.githubusercontent.com/80937266/221605054-3a8b05ab-71de-48c4-bbad-48a6537ecc48.jpg)
+   <p> The Performance During Inference was observed as: ![Inference_Original](https://user-images.githubusercontent.com/80937266/221605054-3a8b05ab-71de-48c4-bbad-48a6537ecc48.jpg) </p>
+   
 
   <br>
   <h2> Ghosted UNET Architecture </h2>
