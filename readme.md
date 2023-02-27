@@ -29,9 +29,7 @@
       <li> Specificity: 0.9803 </li>
      </ul>
    <p> The Performance During Inference was observed as: </p>
-   <ul>
-      <li> Original Image: </li>
-      ![Inference_Original](https://user-images.githubusercontent.com/80937266/221605054-3a8b05ab-71de-48c4-bbad-48a6537ecc48.jpg)
+    ![Inference_Original](https://user-images.githubusercontent.com/80937266/221605054-3a8b05ab-71de-48c4-bbad-48a6537ecc48.jpg)
 
   <br>
   <h2> Ghosted UNET Architecture </h2>
