@@ -31,6 +31,7 @@
    <p> The Performance During Inference was observed as: </p>
    <ul>
      <li> Original Image: <br> <img src='https://user-images.githubusercontent.com/80937266/221606061-b7dfe1af-5ff6-4062-b7b2-da2c2002b703.jpg'></li>
+     <li> Predicted Mask: <br> <img src='https://user-images.githubusercontent.com/80937266/221606501-30a5d4a0-bfc1-4116-a752-7d257928d3ee.jpg'></li>
   </ul>
 
   <br>
