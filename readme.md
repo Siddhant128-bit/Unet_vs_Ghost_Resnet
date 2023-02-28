@@ -24,9 +24,9 @@
   
   <p> In the latest experiment Trained for 25 epochs we have obtained following scores for this model </p>
     <ul>
-      <li> Dice Score: 0.9043 </li>
-      <li> Sensitivity: 0.9270 </li>
-      <li> Specificity: 0.9803 </li>
+      <li> Dice Score: 0.8955  </li>
+      <li> Sensitivity: 0.9095 </li>
+      <li> Specificity: 0.9890 </li>
      </ul>
    <p> The Performance During Inference was observed as: </p>
    <ul>
@@ -58,7 +58,12 @@
       Non-trainable params: 0
     
   <p> From the above parameters for Ghosted UNET and Original UNET we can observe that there is a drastic difference of 113,042 parameters despite almost having 2    times the features </p>
-  
+  <p> In the latest experiment Trained for 20 epochs we have obtained following scores for this model </p>
+    <ul>
+      <li> Dice Score: 0.8824  </li>
+      <li> Sensitivity: 0.9138  </li>
+      <li> Specificity: 0.9776 </li>
+     </ul>
    <p> The Performance During Inference was observed as: </p>
    <ul>
      <li> Original Image: <br> <img src='https://user-images.githubusercontent.com/80937266/221848259-124a519a-f4fc-43af-a1d0-6b83189dbb2c.png'></li>
