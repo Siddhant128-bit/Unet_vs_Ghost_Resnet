@@ -58,6 +58,12 @@
       Non-trainable params: 0
     
   <p> From the above parameters for Ghosted UNET and Original UNET we can observe that there is a drastic difference of 113,042 parameters despite almost having 2    times the features </p>
+  
+   <p> The Performance During Inference was observed as: </p>
+   <ul>
+     <li> Original Image: <br> <img src='https://user-images.githubusercontent.com/80937266/221848259-124a519a-f4fc-43af-a1d0-6b83189dbb2c.png'></li>
+     <li> Predicted Mask: <br> <img src='https://user-images.githubusercontent.com/80937266/221606501-30a5d4a0-bfc1-4116-a752-7d257928d3ee.jpg'></li>
+  </ul>
   <p align='center'> <b> Note: </b> As it is still a work in progress I will be updating this log file as I reach more checkpoints in development cycle. </p>
 </div>
 
