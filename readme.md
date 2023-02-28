@@ -50,7 +50,12 @@
     <li> Fifth Layer UNET Input Features: 256, Ghosted UNET Features: 332</li>
     <li> Fifth Layer UNET Input Features: 256, Ghosted UNET Features: 332</li>
   </ul>
-    
+  
+  <p> Parameters for same UNET architecture with increased feature was obtained to be: </p>
+  
+      Total params: 1,828,063
+      Trainable params: 1,828,063
+      Non-trainable params: 0
     
   <p align='center'> <b> Note: </b> As it is still a work in progress I will be updating this log file as I reach more checkpoints in development cycle. </p>
 </div>
