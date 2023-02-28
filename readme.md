@@ -57,6 +57,7 @@
       Trainable params: 1,828,063
       Non-trainable params: 0
     
+  <p> From the above parameters for Ghosted UNET and Original UNET we can observe that there is a drastic difference of 113,042 parameters despite almost having 2    times the features </p>
   <p align='center'> <b> Note: </b> As it is still a work in progress I will be updating this log file as I reach more checkpoints in development cycle. </p>
 </div>
 
